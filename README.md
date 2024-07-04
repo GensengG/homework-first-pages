@@ -23,6 +23,5 @@
 - Изобразительное искусство.
 
 **Моё фото:**
-![my-photo](https://github.com/GensengG/homework-first-pages/assets/168531024/015012c6-8c9a-49b6-be71-98c63a687857)
-
+![my-photo](https://github.com/GensengG/homework-first-pages/assets/168531024/891eb46d-2374-4c4f-8e4a-dd35f2fbae93)
 
