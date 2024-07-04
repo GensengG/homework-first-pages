@@ -23,7 +23,6 @@
 - Изобразительное искусство.
 
 **Моё фото:**
-![Моя аватарка в личном кабинете Нетологии](blob:https://web.telegram.org/9652214c-59f9-48a9-ac7f-2cddf58bb95c)
 ![my-photo](https://github.com/GensengG/homework-first-pages/assets/168531024/015012c6-8c9a-49b6-be71-98c63a687857)
 
 
